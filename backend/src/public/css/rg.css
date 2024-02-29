@@ -1,0 +1,19 @@
+.form{
+  margin: 100px;
+  padding: 3rem;
+  background-color: hsl(0, 0%, 18%);
+ text-align: center;
+}
+.form-control{
+  width: 200px;
+  margin: auto;
+
+}
+.section__title{
+  color: hsl(79, 72%, 55%);;
+  text-align: center;
+  margin-bottom: 50px;
+}
+.btn{
+  margin: 10px;
+}
