@@ -12,7 +12,7 @@ const app = express();
 
 //use cookie parser
 app.use(cookieParser('secret'));
-
+app.set('view engine', 'ejs');
 //config session
 app.use(session({
     secret: 'secret',

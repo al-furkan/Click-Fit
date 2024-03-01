@@ -17,3 +17,15 @@
 .btn{
   margin: 10px;
 }
+.imges-container{
+  margin: auto;
+  background-image: url('../img/download.png');
+  background-repeat: no-repeat;
+  background-position: center;
+  height: 200px;
+}
+.imges-container input{
+height: 200px;
+margin: 30px;
+
+}
